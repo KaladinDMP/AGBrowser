@@ -1,7 +1,7 @@
 ![ARMGDDN](https://github.com/KaladinDMP/AGBrowser/assets/92135051/88295dcb-9ede-4147-aedb-da98060d0b9a)
 
 
-[ARMGDDN Browser v5.1.0](https://github.com/KaladinDMP/AGBrowser/releases/download/5.10.24/SETUP.7z)
+[ARMGDDN Browser v5.5.0](https://github.com/KaladinDMP/AGBrowser/releases/download/5.10.24/SETUP.7z)
 
 [Simple Setup Tutorial](https://streamable.com/s8b1tl)
 
