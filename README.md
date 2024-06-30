@@ -7,6 +7,8 @@
 
 [ARMGDDN Telegram Channel](https://t.me/ARMGDDNGames)
 
+[ARMGDDN Discord](https://discord.gg/abeChzCy8X)
+
 [My Telegram Account](https://t.me/SickSoThr33)
 
 
